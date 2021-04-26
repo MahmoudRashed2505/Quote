@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "19069489661",
+    "project_id": "quote-volta",
+    "storage_bucket": "quote-volta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19069489661:android:023d7bf3e7fdb33e8f0994",
+        "android_client_info": {
+          "package_name": "io.voltaeg.quote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19069489661-1neseqtk5j41obcqbont2dhe3fgvhavp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.voltaeg.quote",
+            "certificate_hash": "bf0507ee3691cd6d6d6e6d7ceff38c3dd12e3862"
+          }
+        },
+        {
+          "client_id": "19069489661-k7fob1ij4bvumbot57nvvh9umfje8vhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKQ_vmuZ6uOQ4EquYOg-4ReYSl9rndxmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19069489661-k7fob1ij4bvumbot57nvvh9umfje8vhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
