@@ -1,6 +1,27 @@
-# quote
+# Quote
 
-A new Flutter project.
+This is a repo for Quorta app
+
+## Project Description
+
+This app will provide various amount of quotes based on the categories that the user will choose.
+
+## Keep Track to the App
+
+ - [X] Intro Screen
+ - [X] Login Screen
+ - [X] Main Screen
+ - [] Choose Quotes Category
+ - [X] Connecting to API and Retrive Data
+ - [] Create User Model and Link it
+ - [] Save Quote Functionality 
+ - [] Share Functionality
+ - [] Side Menu 
+ - [] Connecting to Firestore
+ - [] Authentication
+ - [] Optimization
+ - [] Deployment 
+
 
 ## Getting Started
 
