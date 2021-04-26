@@ -11,16 +11,16 @@ This app will provide various amount of quotes based on the categories that the 
  - [X] Intro Screen
  - [X] Login Screen
  - [X] Main Screen
- - [] Choose Quotes Category
+ - [ ] Choose Quotes Category
  - [X] Connecting to API and Retrive Data
- - [] Create User Model and Link it
- - [] Save Quote Functionality 
- - [] Share Functionality
- - [] Side Menu 
- - [] Connecting to Firestore
- - [] Authentication
- - [] Optimization
- - [] Deployment 
+ - [ ] Create User Model and Link it
+ - [ ] Save Quote Functionality 
+ - [ ] Share Functionality
+ - [ ] Side Menu 
+ - [ ] Connecting to Firestore
+ - [ ] Authentication
+ - [ ] Optimization
+ - [ ] Deployment 
 
 
 ## Getting Started
